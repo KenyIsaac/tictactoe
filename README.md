@@ -4,23 +4,6 @@ Se implementaron las siguientes tecnologías y herramientas para la realización
 
 Para la correcta visualización del proyecto, se sugiere la instalación de los componentes y adiciones. Desde la consola el comando se recomienda teclear: - npm i O en su defecto - npm install
 
-También, tendrá la opción de instalar los complementos individualmente con los siguientes comandos:
-
-    - npm i typescript
-        ó
-    - npm install typescript
-
-    - npm i styled-components
-        ó
-    - npm install styled-components
-
-    - npm i firebase
-        ó
-    - npm install firebase
-
-    - npm i -g firebase-tools
-        ó
-    - npm npm install -g firebase-tools
 Para iniciar el proyecto, escribir en consola el comando: - npm start
 
 Una vez iniciado el proyecto, si no se despliega desde directamente, sugiero entrar al navegador y escribir la siguiente dirección: - http://localhost:3000/
